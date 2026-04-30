@@ -5,7 +5,7 @@ This version uses a local LLM through Ollama instead of OpenAI API.
 ## Setup
 
 ```bash
-cd sec_mcp_research_agent_local_llm
+
 python3.11 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
